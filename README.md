@@ -65,8 +65,8 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenchuyenhoa14-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenchuyenhoa14-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
 </p>
 
 <br/>
