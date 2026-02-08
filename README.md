@@ -56,10 +56,17 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=nguyenchuyenhoa14-hub&theme=radical" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=nguyenchuyenhoa14-hub&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
+</p>
+
 <br/>
 
 <!-- LIÊN HỆ (FOOTER) -->
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourprofile)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nguyen.vohoang@hcmut.edu.vn)
 
 </div>
