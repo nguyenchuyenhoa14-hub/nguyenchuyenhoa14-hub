@@ -48,25 +48,12 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
 <br/>
 <br/>
 
-<!-- DỰ ÁN (PROJECTS) -->
-### 📌 Key Projects
-
-| Project | Tech Stack | Description |
-| :--- | :---: | :--- |
-| **[32-bit RISC-V Processor](Link_Repo_RISCV)** | `Verilog` `Vivado`<br/>`Python (cocotb)` | 🔹 Designed a 5-stage pipelined processor (RV32I).<br/>🔹 Resolved Data/Control Hazards.<br/>🔹 Verified using constrained-random tests. |
-| **[TRNG on FPGA](Link_Repo_TRNG)** | `Verilog` `Artix-7`<br/>`Vitis` | 🔹 **IEEE AsianHOST Reproduction.**<br/>🔹 Jitter-Sampling TRNG using Ring Generators.<br/>🔹 Optimized resource utilization (<6%). |
-| **[CNN Accelerator](Link_Repo_CNN)** | `MIPS Assembly`<br/>`MARS` | 🔹 Implemented Convolution, Pooling, FC layers.<br/>🔹 Optimized memory addressing for matrix mult.<br/>🔹 MNIST digit recognition. |
-| **[Simple OS Kernel](Link_Repo_OS)** | `C`<br/>`Linux` | 🔹 Process Scheduling (Round Robin).<br/>🔹 Synchronization (Semaphores/Mutex). |
-
-<br/>
-<br/>
-
 <!-- THỐNG KÊ (GITHUB STATS) -->
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenchuyenhoa14-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenchuyenhoa14-hub&theme=radical" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=nguyenchuyenhoa14-hub&theme=radical" height="150" />
 </p>
 
 <br/>
