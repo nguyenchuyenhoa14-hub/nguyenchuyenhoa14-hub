@@ -18,7 +18,7 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
 
 <!-- THÔNG TIN -->
 • 🎓 **Education:** 3rd-year Student at Ho Chi Minh City University of Technology (VNU-HCM) <br/>
-• 🔭 **Focus:** Advanced Verification (UVM/cocotb) & SoC Design <br/>
+• 🔭 **Focus:** SoC Design <br/>
 • 🌱 **Learning:** SystemVerilog Assertions & Low-power Design <br/>
 • 💬 **Contact:** nguyen.vohoang@hcmut.edu.vn
 
@@ -53,21 +53,8 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenchuyenhoa14-hub&theme=radical" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=nguyenchuyenhoa14-hub&theme=radical" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=nguyenchuyenhoa14-hub&theme=radical" height="150" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
 </p>
 
+
 <br/>
-
-<!-- LIÊN HỆ (FOOTER) -->
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nguyen.vohoang@hcmut.edu.vn)
-
-</div>
-<!-- KẾT THÚC CĂN GIỮA -->
