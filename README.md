@@ -1,15 +1,49 @@
-# Hi there, I'm Vo Hoang Nguyen! 🇻🇳
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coding.gif" width="320" align="right" /> Hey there! I'm Vo Hoang Nguyen (Nguyen) 🇻🇳
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a31d24&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nguyen!;Computer+Engineering+Student;Digital+IC+%2B+FPGA+Designer;Research+Intern+%40+NTU+Nano+Lab" alt="Typing SVG" />
+</a>
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=nguyenchuyenhoa14-hub&color=a31d24&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/nguyenchuyenhoa14-hub)
+
+---
+
+### 🚀 About Me
+
+I am a final-year **Computer Engineering** student at **Ho Chi Minh City University of Technology (HCMUT)**, currently ranking in the **top 5%** of my class. I specialize in **Digital IC Design**, **Computer Architecture**, and **Hardware Accelerators**.
+
+Currently, I am a Research Intern at **National Taiwan University (NTU) Nano Lab** working on 3D-IC Through-Silicon Via (TSV) dimension reconstruction.
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nguyenchuyenhoa14-hub&theme=radical&column=7&margin-w=15&margin-h=15" alt="github-trophy" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenchuyenhoa14-hub&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=false&border_radius=10" height="180" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nguyenchuyenhoa14-hub&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="195" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=false&border_radius=10" height="195" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenchuyenhoa14-hub&theme=radical&border_radius=10" width="100%" alt="Nguyen's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br/>
-
-I am a Computer Engineering undergraduate at **Ho Chi Minh City University of Technology (HCMUT)**, currently ranked in the top 5% of my class. I design **Digital ICs**, **Computer Architectures**, and **Hardware Accelerators (FPGA/ASIC)**.
-
-Currently, I am a Research Intern at **National Taiwan University (NTU) Nano Lab** focusing on 3D-IC Through-Silicon Via (TSV) dimension reconstruction.
 
 ---
 
@@ -35,17 +69,17 @@ Currently, I am a Research Intern at **National Taiwan University (NTU) Nano Lab
 ### 🛠️ Tech Stack & Badges
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Verilog-F24E1E?style=flat-square&logo=cpu&logoColor=white" alt="Verilog" />
-  <img src="https://img.shields.io/badge/SystemVerilog-005A9C?style=flat-square&logo=microchip&logoColor=white" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Vivado-FF6600?style=flat-square&logo=xilinx&logoColor=white" alt="Vivado" />
-  <img src="https://img.shields.io/badge/ModelSim-00205B?style=flat-square&logo=modelsim&logoColor=white" alt="ModelSim" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Verilog-F24E1E?style=for-the-badge&logo=cpu&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/SystemVerilog-005A9C?style=for-the-badge&logo=microchip&logoColor=white" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Vivado-FF6600?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
+  <img src="https://img.shields.io/badge/ModelSim-00205B?style=for-the-badge&logo=modelsim&logoColor=white" alt="ModelSim" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
 ---
 
-### 📫 Contact
+### 📫 Let's Connect!
 - **Email:** [nguyenchuyenhoa14@gmail.com](mailto:nguyenchuyenhoa14@gmail.com)
 - **LinkedIn:** [Vo Hoang Nguyen](https://linkedin.com/in/nguyenchuyenhoa14)
