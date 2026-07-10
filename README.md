@@ -14,25 +14,16 @@ Currently, I am a Research Intern at **National Taiwan University (NTU) Nano Lab
 
 ---
 
-### GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nguyenchuyenhoa14-hub&theme=radical&column=7&margin-w=15&margin-h=15" alt="github-trophy" />
-  </a>
-</p>
-
----
-
 ### GitHub Stats & Metrics
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nguyenchuyenhoa14-hub&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="195" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=nguyenchuyenhoa14-hub&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="195" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=false&border_radius=10" height="195" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=false&border_radius=10" height="195" alt="Top Languages" />
       </td>
     </tr>
   </table>
