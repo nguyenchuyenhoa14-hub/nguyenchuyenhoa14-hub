@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a31d24&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nguyen!;Computer+Engineering+Student;Digital+IC+%2B+FPGA+Designer;Research+Intern+%40+NTU+Nano+Lab" alt="Typing SVG" />
 </a>
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=nguyenchuyenhoa14-hub&color=a31d24&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/nguyenchuyenhoa14-hub)
-
 ---
 
 ### About Me
