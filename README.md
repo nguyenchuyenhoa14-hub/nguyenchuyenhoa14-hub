@@ -37,11 +37,6 @@ Currently, I am a Research Intern at **National Taiwan University (NTU) Nano Lab
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=false&border_radius=10" height="195" alt="Top Languages" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenchuyenhoa14-hub&theme=radical&border_radius=10" width="100%" alt="Nguyen's GitHub Streak" />
-      </td>
-    </tr>
   </table>
 </div>
 
