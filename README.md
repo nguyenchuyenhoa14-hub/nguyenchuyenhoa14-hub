@@ -44,7 +44,7 @@ Currently, I am a Research Intern at **National Taiwan University (NTU) Nano Lab
 
 ### 💻 Featured Hardware Projects
 
-*   🚀 **[YOLO_Tank](https://github.com/nguyenchuyenhoa14-hub/YOLO_Tank)**: YOLOv8 custom FPGA detection head accelerator on Zynq-7020.
+*   🚀 **[YOLOv8-FPGA-Accelerator](https://github.com/nguyenchuyenhoa14-hub/YOLOv8-FPGA-Accelerator)**: YOLOv8 custom FPGA detection head accelerator on Zynq-7020.
     *   *Highlights:* Division-free NMS, memory-based focal loss decoder (LUTs), and INT8 quantization.
     *   *Specs:* **32.1 FPS @ 105 MHz** | **0.302 W** PL power | 10 DSPs.
     *   *Paper:* Accepted at **IAAA 2026**.
@@ -52,7 +52,7 @@ Currently, I am a Research Intern at **National Taiwan University (NTU) Nano Lab
 *   🔒 **[Zynq-True-Random-Number-Generator](https://github.com/nguyenchuyenhoa14-hub/Zynq-True-Random-Number-Generator)**: Compact Jitter-Sampling TRNG using Latch-XOR oscillator cells on Arty Z7-20.
     *   *Highlights:* Dynamic entropy extraction, ARM Cortex-A9 AXI bus readout, and NIST SP 800-22 certified.
 
-*   ⚙️ **[PipelineDatapath](https://github.com/nguyenchuyenhoa14-hub/PipelineDatapath)**: 5-stage pipelined RV32I RISC-V processor from scratch in Verilog.
+*   ⚙️ **[RISCV-RV32I-Pipelined-Processor](https://github.com/nguyenchuyenhoa14-hub/RISCV-RV32I-Pipelined-Processor)**: 5-stage pipelined RV32I RISC-V processor from scratch in Verilog.
     *   *Highlights:* Hazard forwarding/stall/flush unit, 125 MHz synthesis on Artix-7, and python-driven automated verification.
 
 *   🛰️ **UAV Volumetric Triangulation System** (Research Project)
