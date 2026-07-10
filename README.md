@@ -55,8 +55,9 @@ Currently, I am a Research Intern at **National Taiwan University (NTU) Nano Lab
 *   ⚙️ **[PipelineDatapath](https://github.com/nguyenchuyenhoa14-hub/PipelineDatapath)**: 5-stage pipelined RV32I RISC-V processor from scratch in Verilog.
     *   *Highlights:* Hazard forwarding/stall/flush unit, 125 MHz synthesis on Artix-7, and python-driven automated verification.
 
-*   🛰️ **[UAV_detection_and_Tracking](https://github.com/nguyenchuyenhoa14-hub/UAV_detection_and_Tracking)**: Volumetric multi-view triangulation for UAV 3D geolocation.
-    *   *Highlights:* Multi-ray frustum intersections, **22.6% geolocation error reduction** relative to single-ray.
+*   🛰️ **UAV Volumetric Triangulation System** (Research Project)
+    *   *Terrain-independent volumetric multi-view triangulation for UAV 3D geolocation.*
+    *   *Highlights:* Multi-ray frustum intersections, **22.6% geolocation error reduction** relative to single-ray baseline.
     *   *Paper:* Accepted at **IAAA 2026**.
 
 ---
