@@ -44,6 +44,11 @@ Currently, I am a Research Intern at **National Taiwan University (NTU) Nano Lab
 
 ### 💻 Featured Hardware Projects
 
+*   🔒 **[CRYPTO_SOC](https://github.com/BAT-LAB69/CRYPTO_SOC)** (Collaborative Project): Full-stack Cryptographic System-on-Chip featuring custom bus interconnects and hardware-accelerated security IPs.
+    *   *Highlights:* Integrated **TRNG**, **SHAKE128/256**, **AES-CBC**, **Ed25519 digital signatures**, and **BIKE Key Encapsulation Mechanism (KEM)** for Post-Quantum Cryptography.
+    *   *Role:* Designed custom bus interconnect adapters and DMA controllers in Verilog for low-latency hardware IP streaming.
+    *   *Context:* Developed for the **Urban Integrated Circuit Design Competition**.
+
 *   🚀 **[YOLOv8-FPGA-Accelerator](https://github.com/nguyenchuyenhoa14-hub/YOLOv8-FPGA-Accelerator)**: YOLOv8 custom FPGA detection head accelerator on Zynq-7020.
     *   *Highlights:* Division-free NMS, memory-based focal loss decoder (LUTs), and INT8 quantization.
     *   *Specs:* **32.1 FPS @ 105 MHz** | **0.302 W** PL power | 10 DSPs.
