@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coding.gif" width="320" align="right" /> Vo Hoang Nguyen (Nguyen) 🇻🇳
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a31d24&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nguyen!;Computer+Engineering+Student;Digital+IC+%2B+FPGA+Designer;Research+Intern+%40+NTU+Nano+Lab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a31d24&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nguyen!;Computer+Engineering+Student;Digital+IC+%2B+FPGA+Designer;Research+Intern+%40+NTU" alt="Typing SVG" />
 </a>
 
 ---
@@ -10,7 +10,7 @@
 
 I am a final-year Computer Engineering student at **Ho Chi Minh City University of Technology (HCMUT)**, currently ranking in the **top 5%** of my class. I specialize in **Digital IC Design**, **Computer Architecture**, and **Hardware Acceleration (FPGA/ASIC)**.
 
-Currently, I am a Research Intern at **National Taiwan University (NTU) Nano Lab** working on 3D-IC Through-Silicon Via (TSV) dimension reconstruction.
+Currently, I am a Research Intern at **National Taiwan University (NTU)**, working on FPGA configuration scrubbing systems for LEO CubeSats and 3D-IC Through-Silicon Via (TSV) dimension reconstruction.
 
 ---
 
