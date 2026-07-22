@@ -30,7 +30,7 @@ Currently, I am a Research Intern at National Taiwan University (NTU), investiga
   * 5-stage pipelined RV32I RISC-V processor designed in Verilog HDL.
   * *Features:* Forwarding unit, hazard stall/flush logic, timing-clean synthesis at 125 MHz on Artix-7, Python co-simulation framework.
 
-* **UAV Volumetric Triangulation System**
+* **[Volumetric-MultiView-Triangulation](https://github.com/nguyenchuyenhoa14-hub/Volumetric-MultiView-Triangulation)**
   * Terrain-independent 3D object geolocation system for monocular UAVs.
   * *Features:* Multi-ray frustum intersection pipeline, 22.6% error reduction over single-ray baselines. Accepted at IAAA 2026.
 
