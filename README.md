@@ -2,7 +2,7 @@
 
 Computer Engineering Student at Ho Chi Minh City University of Technology (HCMUT)  
 Research Intern at National Taiwan University (NTU)  
-Email: [nguyenchuyenhoa14@gmail.com](mailto:nguyenchuyenhoa14@gmail.com) | GitHub: [github.com/nguyenchuyenhoa14-hub](https://github.com/nguyenchuyenhoa14-hub)
+Email: [nguyenchuyenhoa14@gmail.com](mailto:nguyenchuyenhoa14@gmail.com)
 
 ## About
 
